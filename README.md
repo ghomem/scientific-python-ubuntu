@@ -11,7 +11,7 @@ Reproducible process for Scientific Python on Ubuntu LTS.
 In order to prepare the environment we need to execute in the Ubuntu LTS system:
 ```
 APT_PACKAGES="python3-matplotlib python3-pandas python3-numpy python3-scipy python3-jinja2 python3-prettytable
-              python3-dateutil python3-markupsafe python3-typing-extensions python3-requests"
+              python3-dateutil python3-markupsafe python3-typing-extensions python3-requests python3-distutils git"
 
 sudo apt-get update
 sudo apt-get install -y $APT_PACKAGES
