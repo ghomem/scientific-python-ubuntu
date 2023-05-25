@@ -1,5 +1,7 @@
 # scientific-python-ubuntu
-Scientific python on Ubuntu LTS. Status: work in progress.
+Reproducible process for Scientific Python on Ubuntu LTS.
+
+**Status:** work in progress.
 
 The goal of this repository is helping to setup a reproducible Python environment on Ubuntu LTS releases. Currently it supports Ubuntu 20.4 and Ubuntu 22.04.
 
