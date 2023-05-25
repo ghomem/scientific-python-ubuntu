@@ -43,7 +43,7 @@ mkdir output
 python3 fetch-dssg-data.py output opendata.ecdc.europa.eu
 cd ..
 ```
-If all the tests worked the environment is ready for simple Python programs that use Pandas, Numpy and Scipy, that fetch external data with Requests and output the result in text (with or without PrettyTable) or Plots (using Matplotlib).
+If all the tests worked the environment is ready for simple Python programs that use Pandas, Numpy and Scipy, that fetch external data with Requests and output the result in text (with or without PrettyTable) or plots (using Matplotlib).
 
 **Extending the environment**
 
