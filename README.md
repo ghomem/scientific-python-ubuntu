@@ -47,7 +47,7 @@ If all the tests worked the environment is ready for simple Python programs that
 
 **Extending the environment**
 
-In order to extend the environment additional apt packages can be installed. Usually they follow the pattern pyhon3-LIBNAME where LIBNAME is the name by which the library is known inside python programs. For example, if your program needs to:
+In order to extend the environment additional apt packages can be installed. Usually they follow the pattern python3-LIBNAME where LIBNAME is the name by which the library is known inside python programs. For example, if your program needs to:
 
 ```
 import xgboost
@@ -58,3 +58,5 @@ you will need to execute once:
 ```
 sudo apt-get install -y python3-xgboost
 ```
+
+After this command is executed your python programs would be able to use the XGBoost library.
