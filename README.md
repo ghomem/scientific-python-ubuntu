@@ -21,7 +21,7 @@ In order to test the environment we can clone and test a couple of simple Python
 
 Menudo (outputs text tables made with PrettyTable)
 ```
-git clone https://github.com/ghomem/menudo.gi
+git clone https://github.com/ghomem/menudo.git
 cd menudo
 python3 menudo.py 1
 cd ..
